@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm stupid</h1>
 <h3 align="center">If I was stupid a week ago, imagine how stupid I was when I thought HTML was a programming language. I'm sure I'm stupid today, but tomorrow I'll be less so. Now I am a developer who learns every day, trying to change the world for the better, my world, your world.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mikaelpizzi" alt="mikaelpizzi" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mikaelpizzi&label=Profile%20views&color=feeb01&style=flat" alt="mikaelpizzi" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
